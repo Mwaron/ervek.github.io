@@ -18,6 +18,16 @@ body {
     margin-right: 25px;
 }
 
+.row {
+    display: inline-flex;
+}
+
+.row-item {
+    flex: auto;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
 .centered {
     text-align: center;
 }
