@@ -6,3 +6,28 @@
     --lighten: rgba(255, 255, 255, 0.1)
     --darken: rgba(0, 0, 0, 0.1)
 }
+
+* {
+    font-family: 'Poppins';
+}
+
+body {
+    color: var(--bright);
+    background-color: var(--background);
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.accent {
+    color: var(--accent);
+}
+
+.bg-accent {
+    background-color: var(--accent);
+    color: var(--background);
+}
+
+.underline {
+    padding-bottom: 5px;
+    border-bottom: var(--bright) solid 2px;
+}
