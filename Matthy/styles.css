@@ -1,0 +1,8 @@
+:root {
+    --background: #000000;
+    --accent: #ff0000;
+    --bright: #fff;
+
+    --lighten: rgba(255, 255, 255, 0.1)
+    --darken: rgba(0, 0, 0, 0.1)
+}
