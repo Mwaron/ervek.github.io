@@ -5,6 +5,10 @@
     --color2: #407899;
 }
 
+.contact {
+    text-decoration: underline;
+}
+
 .p1, .p2 {
     display: block;
   }
@@ -20,7 +24,7 @@
 
 body{
     background-color: var(--background);
-    padding: 0px 25px;
+    padding: 0px 100px;
 }
 
 .head {
